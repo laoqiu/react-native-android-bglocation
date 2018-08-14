@@ -1,0 +1,19 @@
+{
+  "name": "react-native-android-bglocation",
+  "version": "0.0.3",
+  "description": "react native android background location use headlessjs",
+  "main": "index.js",
+  "repository": "github.com/laoqiu/react-native-android-bglocation",
+  "author": "laoqiu.com@gmail.com",
+  "keywords": [
+    "react",
+    "react-native",
+    "location",
+    "android",
+    "gps",
+    "network",
+    "react-component",
+    "headlessjs"
+  ],
+  "license": "MIT"
+}
